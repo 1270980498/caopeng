@@ -1,0 +1,12 @@
+﻿.posts {
+	background: #fff;
+}
+
+.box {
+	padding: 40px 100px 15px 100px;
+}
+
+.format-quote .box {
+	padding-left: 200px;
+	background: #282D30 url(../Images/cartographer-dark_@2x.png) fixed;
+}
